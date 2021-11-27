@@ -20,6 +20,8 @@ public class Controlador implements ActionListener{
         vista.btnAdministrar.addActionListener(this);
         vista.btnRetirar.addActionListener(this);
         vista.btnCerrar.addActionListener(this);
+        
+        
            
     }
     public void actionPerformed(ActionEvent ae){
